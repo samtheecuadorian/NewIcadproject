@@ -1,0 +1,59 @@
+@media screen and (min-width: 660px) {
+  /********
+  HEADER
+  *********/
+    #logo h1, #logo h2{
+    text-align: center;
+    background-color:#678;
+  }
+  #wrapper {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+  
+  
+  
+  
+  /********
+  BODY
+  *********/
+  /********
+  two-column 1
+  *********/
+  .items {
+    float: right;
+    
+  }
+  .steps {
+    float: left;
+    width: 690px;
+  }
+  
+  .imga {
+    display:-webkit-box;
+    clear:both;
+    margin-top: 20%;
+    padding-left: 20%;
+  }
+  
+  #bigPhoto, #semiBigPhoto{
+    width: 100%;
+    height: 100%;
+  }
+  
+  .code{
+    float:left;
+    
+  }
+  
+  .tips {
+    width: 50%;
+    float: right;
+    
+  }
+
+  .explination {
+    margin-top: 35%;
+  }
+ 
+}

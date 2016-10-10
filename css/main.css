@@ -1,0 +1,170 @@
+/********
+GENERAL
+*********/
+
+
+a {
+  text-decoration: none;
+}
+
+p, li {
+  font-family: 'Droid Sans Mono', monospace;
+  font-weight: 300;
+}
+/********
+HEADER
+*********/
+
+#logo {
+ margin-left: 5px;
+ margin-right: 5px;
+}
+
+#logo h1, #logo h2{
+  text-align: center;
+  font-family: 'Audiowide', sans-serif;
+  font-weight: 300;
+}
+
+/********
+BODY
+*********/
+article p{
+  font-size: 0.9em;
+  margin-left: 10px;
+}
+
+ li {
+  font-size: 0.80em
+}
+
+
+/********
+intro
+*********/
+.intro {
+  text-align: center;
+  
+}
+
+.intro h2 {
+  background-color: #7a997c;
+  margin: 0;
+}
+
+.intro p {
+  margin-left: 2px;
+  margin-right: 2px;
+}
+
+
+/********
+items and steps
+*********/
+.items h2{
+  text-align: center;
+  background-color: #7a997c;
+} 
+
+.items p {
+  margin-left: 2px;
+  margin-right: 2px;
+}
+
+.steps h2{
+  text-align: center;
+  background-color: #7a997c;
+}
+
+
+
+/********
+images
+*********/
+figcaption {
+  text-decoration: none;
+  color: black;
+  width: 300px
+}
+
+.imga {
+  width: 300px;
+}
+
+#semiBigPhoto{
+  width: 50%;
+}
+
+#bigPhoto {
+   width: 50%;
+   height: 50%;
+  }
+
+/********
+code
+*********/
+.indent{
+    padding-left: 30px;
+  }
+
+.code h2{
+  text-align: center;
+  background-color:#7a997c;
+}
+
+/********
+tips
+*********/
+.tips {
+  border-left: 30px;
+}
+
+.tips h2 {
+  text-align: center;
+  background-color:#7a997c;
+}
+
+#bold {
+    font-weight: bold;
+  }
+
+#text {
+  font-size: 0.80em;
+}
+
+
+
+/********
+explination
+*********/
+.explination h2 {
+  text-align: center;
+  background-color:#7a997c;
+}
+
+
+
+/********
+FOOTER
+*********/
+footer {
+  text-align: center;
+  font-size: 0.5em;
+}
+
+
+
+/********
+COLOR
+*********/
+#logo {
+  color: #678;
+}
+
+header {
+  background-color: #667788;
+}
+
+ h1, h2{
+  color: #fff;
+}
